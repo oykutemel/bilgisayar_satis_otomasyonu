@@ -1,0 +1,2 @@
+# bilgisayar_satis_otomasyonu
+bilgisayar_satis_otomasyonu
